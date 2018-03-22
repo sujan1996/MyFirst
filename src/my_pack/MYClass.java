@@ -13,7 +13,7 @@ class PrimeNumbers
 
         if (n >= 1)
         {
-            System.out.println("First "+n+" prime numbers are :-");
+            System.out.println("First "+n+" prie numbers are :-");
             System.out.println(2);
         }
 
